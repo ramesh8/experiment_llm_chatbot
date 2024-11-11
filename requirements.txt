@@ -63,3 +63,6 @@ wikipedia
 yfiles_jupyter_graphs
 pandas
 langchainhub
+fastapi
+uvicorn[standard]
+jinja2
